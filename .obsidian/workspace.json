@@ -176,8 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,7 +190,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "24c477856d8f5f92",
+  "active": "be425026298bfb55",
   "lastOpenFiles": [
     "RAKIB VI R NOTE.md",
     "VLSI CIRCUIT & DESIGN/VLSI SEMESTER QUESTION.md",
