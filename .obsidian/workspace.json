@@ -11,10 +11,14 @@
             "id": "912a023f510a8a8d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "PYTHON/PYTHON BASICS.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "PYTHON BASICS"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PYTHON/PYTHON BASICS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for PYTHON BASICS"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PYTHON/PYTHON BASICS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from PYTHON BASICS"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "PYTHON/PYTHON BASICS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of PYTHON BASICS"
             }
           },
           {
@@ -189,20 +196,20 @@
   },
   "active": "912a023f510a8a8d",
   "lastOpenFiles": [
+    "PYTHON/RESEARCH PAPER WRITING COURSE.md",
+    "PYTHON/PYTHON BASICS.md",
+    "ELECTRIC MACHINE/MACHINE SEMESTER QUESTION.md",
     "RAKIB VI R NOTE.md",
     "VLSI CIRCUIT & DESIGN/VLSI SEMESTER QUESTION.md",
     "VLSI CIRCUIT & DESIGN/MOSFET.md",
     "VLSI CIRCUIT & DESIGN",
     "SIGNAL & LINEAR SYSTEM/SEMESTER QUESTION.md",
     "SIGNAL & LINEAR SYSTEM",
-    "PYTHON/RESEARCH PAPER WRITING COURSE.md",
-    "PYTHON/PYTHON BASICS.md",
     "PYTHON",
     "MEASUREMENT & INSTRUMENTATION/MEASUREMENT & INSTRUMENTATION.md",
     "MEASUREMENT & INSTRUMENTATION",
     "MATH-4/MATH SEMESTER QUESTION.md",
     "MATH-4",
-    "ELECTRIC MACHINE/MACHINE SEMESTER QUESTION.md",
     "ELECTRIC MACHINE",
     "ALL PHOTO/PIC/Pasted image 20260628012843.png",
     "ALL PHOTO/PIC/Pasted image 20260628012828.png",
