@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "676ca062e1e4d664",
+        "id": "ebdf125f88abf486",
         "type": "tabs",
         "children": [
           {
-            "id": "912a023f510a8a8d",
+            "id": "be425026298bfb55",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PYTHON/PYTHON BASICS.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "PYTHON BASICS"
+              "title": "New tab"
             }
           }
         ]
@@ -180,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,14 +191,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "912a023f510a8a8d",
+  "active": "24c477856d8f5f92",
   "lastOpenFiles": [
-    "PYTHON/RESEARCH PAPER WRITING COURSE.md",
-    "PYTHON/PYTHON BASICS.md",
-    "ELECTRIC MACHINE/MACHINE SEMESTER QUESTION.md",
     "RAKIB VI R NOTE.md",
     "VLSI CIRCUIT & DESIGN/VLSI SEMESTER QUESTION.md",
     "VLSI CIRCUIT & DESIGN/MOSFET.md",
+    "PYTHON/PYTHON BASICS.md",
+    "PYTHON/RESEARCH PAPER WRITING COURSE.md",
+    "ELECTRIC MACHINE/MACHINE SEMESTER QUESTION.md",
     "VLSI CIRCUIT & DESIGN",
     "SIGNAL & LINEAR SYSTEM/SEMESTER QUESTION.md",
     "SIGNAL & LINEAR SYSTEM",
